@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\Task1\\Task4\\Task4.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\OneDrive\\Desktop\\Практика C#\\practica_43tp_c_sharp\\Prilozhenie_A\\Task4\\Task4.csproj",
       "projectName": "Task4",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\Task1\\Task4\\Task4.csproj",
+      "projectPath": "C:\\Users\\admin\\OneDrive\\Desktop\\Практика C#\\practica_43tp_c_sharp\\Prilozhenie_A\\Task4\\Task4.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\Task1\\Task4\\obj\\",
+      "outputPath": "C:\\Users\\admin\\OneDrive\\Desktop\\Практика C#\\practica_43tp_c_sharp\\Prilozhenie_A\\Task4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

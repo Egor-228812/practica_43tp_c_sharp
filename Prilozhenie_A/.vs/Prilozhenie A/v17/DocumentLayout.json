@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Task1\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\practica_43tp_c_sharp\\Prilozhenie_A\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{761481F8-3164-45E6-89F3-64AE0CDF746B}|Task7\\Task7.csproj|c:\\users\\admin\\source\\repos\\task1\\task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{761481F8-3164-45E6-89F3-64AE0CDF746B}|Task7\\Task7.csproj|solutionrelative:task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2D25E13-6E30-466D-8942-AEE4769C6930}|Task1\\Task1.csproj|c:\\users\\admin\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\practica_43tp_c_sharp\\prilozhenie_a\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D25E13-6E30-466D-8942-AEE4769C6930}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C141F94D-F795-4E8C-A65C-CBED8C46D866}|Task6\\Task6.csproj|c:\\users\\admin\\source\\repos\\task1\\task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C141F94D-F795-4E8C-A65C-CBED8C46D866}|Task6\\Task6.csproj|solutionrelative:task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E3B9408-B42A-4E53-8661-CC1B47B402B9}|Task5\\Task5.csproj|c:\\users\\admin\\source\\repos\\task1\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E3B9408-B42A-4E53-8661-CC1B47B402B9}|Task5\\Task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E0013BD-8F87-4B51-B0FD-336C0173D031}|Task4\\Task4.csproj|c:\\users\\admin\\source\\repos\\task1\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E0013BD-8F87-4B51-B0FD-336C0173D031}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{839EB649-5D9C-4B95-B88B-410F59FF35AF}|Task3\\Task3.csproj|c:\\users\\admin\\source\\repos\\task1\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{839EB649-5D9C-4B95-B88B-410F59FF35AF}|Task3\\Task3.csproj|c:\\users\\admin\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\practica_43tp_c_sharp\\prilozhenie_a\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{839EB649-5D9C-4B95-B88B-410F59FF35AF}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A422C68A-08D7-4A57-AE1D-6BBD01EE6B77}|Task2\\Task2.csproj|c:\\users\\admin\\source\\repos\\task1\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A422C68A-08D7-4A57-AE1D-6BBD01EE6B77}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{761481F8-3164-45E6-89F3-64AE0CDF746B}|Task7\\Task7.csproj|c:\\users\\admin\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\practica_43tp_c_sharp\\prilozhenie_a\\task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761481F8-3164-45E6-89F3-64AE0CDF746B}|Task7\\Task7.csproj|solutionrelative:task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2D25E13-6E30-466D-8942-AEE4769C6930}|Task1\\Task1.csproj|c:\\users\\admin\\source\\repos\\task1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2D25E13-6E30-466D-8942-AEE4769C6930}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C141F94D-F795-4E8C-A65C-CBED8C46D866}|Task6\\Task6.csproj|c:\\users\\admin\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\practica_43tp_c_sharp\\prilozhenie_a\\task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C141F94D-F795-4E8C-A65C-CBED8C46D866}|Task6\\Task6.csproj|solutionrelative:task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3B9408-B42A-4E53-8661-CC1B47B402B9}|Task5\\Task5.csproj|c:\\users\\admin\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\practica_43tp_c_sharp\\prilozhenie_a\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3B9408-B42A-4E53-8661-CC1B47B402B9}|Task5\\Task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0013BD-8F87-4B51-B0FD-336C0173D031}|Task4\\Task4.csproj|c:\\users\\admin\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\practica_43tp_c_sharp\\prilozhenie_a\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0013BD-8F87-4B51-B0FD-336C0173D031}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A422C68A-08D7-4A57-AE1D-6BBD01EE6B77}|Task2\\Task2.csproj|c:\\users\\admin\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\practica_43tp_c_sharp\\prilozhenie_a\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A422C68A-08D7-4A57-AE1D-6BBD01EE6B77}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,15 +38,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Task1\\Task7\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\practica_43tp_c_sharp\\Prilozhenie_A\\Task7\\Program.cs",
               "RelativeDocumentMoniker": "Task7\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Task1\\Task7\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\practica_43tp_c_sharp\\Prilozhenie_A\\Task7\\Program.cs",
               "RelativeToolTip": "Task7\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,50 +55,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Task1\\Task6\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\practica_43tp_c_sharp\\Prilozhenie_A\\Task6\\Program.cs",
               "RelativeDocumentMoniker": "Task6\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Task1\\Task6\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\practica_43tp_c_sharp\\Prilozhenie_A\\Task6\\Program.cs",
               "RelativeToolTip": "Task6\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T11:37:41.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Task1\\Task5\\Program.cs",
-              "RelativeDocumentMoniker": "Task5\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Task1\\Task5\\Program.cs",
-              "RelativeToolTip": "Task5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T11:25:02.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Task1\\Task4\\Program.cs",
-              "RelativeDocumentMoniker": "Task4\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Task1\\Task4\\Program.cs",
-              "RelativeToolTip": "Task4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T11:12:19.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T11:37:41.447Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Task1\\Task3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\practica_43tp_c_sharp\\Prilozhenie_A\\Task5\\Program.cs",
+              "RelativeDocumentMoniker": "Task5\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\practica_43tp_c_sharp\\Prilozhenie_A\\Task5\\Program.cs",
+              "RelativeToolTip": "Task5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:25:02.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\practica_43tp_c_sharp\\Prilozhenie_A\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\practica_43tp_c_sharp\\Prilozhenie_A\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:12:19.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\practica_43tp_c_sharp\\Prilozhenie_A\\Task3\\Program.cs",
               "RelativeDocumentMoniker": "Task3\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Task1\\Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\practica_43tp_c_sharp\\Prilozhenie_A\\Task3\\Program.cs",
               "RelativeToolTip": "Task3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,24 +104,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Task1\\Task2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\practica_43tp_c_sharp\\Prilozhenie_A\\Task2\\Program.cs",
               "RelativeDocumentMoniker": "Task2\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Task1\\Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\practica_43tp_c_sharp\\Prilozhenie_A\\Task2\\Program.cs",
               "RelativeToolTip": "Task2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T09:01:32.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T09:01:32.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Task1\\Task1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\practica_43tp_c_sharp\\Prilozhenie_A\\Task1\\Program.cs",
               "RelativeDocumentMoniker": "Task1\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Task1\\Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\practica_43tp_c_sharp\\Prilozhenie_A\\Task1\\Program.cs",
               "RelativeToolTip": "Task1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
