@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E45AA478-729C-491E-BA15-152FBBF77C01}|Petrov_Tema_10\\Task1.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_10\\petrov_tema_10\\uisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45AA478-729C-491E-BA15-152FBBF77C01}|Petrov_Tema_10\\Task1.csproj|solutionrelative:petrov_tema_10\\uisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45AA478-729C-491E-BA15-152FBBF77C01}|Petrov_Tema_10\\Petrov_Tema_10.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_10\\petrov_tema_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45AA478-729C-491E-BA15-152FBBF77C01}|Petrov_Tema_10\\Petrov_Tema_10.csproj|solutionrelative:petrov_tema_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UISettings.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_10\\Petrov_Tema_10\\UISettings.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_10\\UISettings.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_10\\Petrov_Tema_10\\UISettings.cs",
+              "RelativeToolTip": "Petrov_Tema_10\\UISettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T17:46:37.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_10\\Petrov_Tema_10\\Program.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_10\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_10\\Petrov_Tema_10\\Program.cs",
+              "RelativeToolTip": "Petrov_Tema_10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T17:31:30.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
