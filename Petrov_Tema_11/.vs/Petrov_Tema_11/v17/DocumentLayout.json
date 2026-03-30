@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0D9040-915D-44D5-9C78-6831D7BA2088}|Task3\\Task3.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_11\\task3\\transfermoneycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0D9040-915D-44D5-9C78-6831D7BA2088}|Task3\\Task3.csproj|solutionrelative:task3\\transfermoneycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0D9040-915D-44D5-9C78-6831D7BA2088}|Task3\\Task3.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_11\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0D9040-915D-44D5-9C78-6831D7BA2088}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0D9040-915D-44D5-9C78-6831D7BA2088}|Task3\\Task3.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_11\\task3\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0D9040-915D-44D5-9C78-6831D7BA2088}|Task3\\Task3.csproj|solutionrelative:task3\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0D9040-915D-44D5-9C78-6831D7BA2088}|Task3\\Task3.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_11\\task3\\bankingterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0D9040-915D-44D5-9C78-6831D7BA2088}|Task3\\Task3.csproj|solutionrelative:task3\\bankingterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F0D9040-915D-44D5-9C78-6831D7BA2088}|Task3\\Task3.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_11\\task3\\bankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F0D9040-915D-44D5-9C78-6831D7BA2088}|Task3\\Task3.csproj|solutionrelative:task3\\bankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EE97BA-94D5-464B-828E-AA50671F14FC}|Task2\\Task2.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_11\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EE97BA-94D5-464B-828E-AA50671F14FC}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D93C2E-0693-4858-9859-B116B75C57E2}|Petrov_Tema_11\\Petrov_Tema_11.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_11\\petrov_tema_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D93C2E-0693-4858-9859-B116B75C57E2}|Petrov_Tema_11\\Petrov_Tema_11.csproj|solutionrelative:petrov_tema_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransferMoneyCommand.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_11\\Task3\\TransferMoneyCommand.cs",
+              "RelativeDocumentMoniker": "Task3\\TransferMoneyCommand.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_11\\Task3\\TransferMoneyCommand.cs",
+              "RelativeToolTip": "Task3\\TransferMoneyCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:39:56.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_11\\Task3\\ICommand.cs",
+              "RelativeDocumentMoniker": "Task3\\ICommand.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_11\\Task3\\ICommand.cs",
+              "RelativeToolTip": "Task3\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:39:51.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankingTerminal.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_11\\Task3\\BankingTerminal.cs",
+              "RelativeDocumentMoniker": "Task3\\BankingTerminal.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_11\\Task3\\BankingTerminal.cs",
+              "RelativeToolTip": "Task3\\BankingTerminal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:39:49.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_11\\Task3\\BankAccountService.cs",
+              "RelativeDocumentMoniker": "Task3\\BankAccountService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_11\\Task3\\BankAccountService.cs",
+              "RelativeToolTip": "Task3\\BankAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:39:38.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_11\\Petrov_Tema_11\\Program.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_11\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_11\\Petrov_Tema_11\\Program.cs",
+              "RelativeToolTip": "Petrov_Tema_11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T05:55:13.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_11\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_11\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T05:55:34.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_11\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_11\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T05:55:44.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
