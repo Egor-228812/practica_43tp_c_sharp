@@ -16,4 +16,4 @@ for (int i = 0;i < arr.Length; i++)
         index = i;
     }
 }
-Console.WriteLine("\nMinimal number: "+min+" His number: ");
+Console.WriteLine("\nMinimal number: "+min+" His number: "+index);

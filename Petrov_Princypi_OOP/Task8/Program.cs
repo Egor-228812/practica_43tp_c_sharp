@@ -9,3 +9,4 @@ for (int i = 0; i <= n; i++)
     answer += Math.Pow(a, i);
 }
 Console.WriteLine($"Answer: {answer}");
+Console.ReadKey();

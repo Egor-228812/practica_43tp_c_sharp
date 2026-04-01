@@ -16,3 +16,4 @@ for (int i = 0; i <= M; i++)
     double y = Math.Cos(x) / Math.Sin(x);
     Console.WriteLine($"{i}\t{x:F4}\t{y:F4}");
 }
+Console.ReadKey();
