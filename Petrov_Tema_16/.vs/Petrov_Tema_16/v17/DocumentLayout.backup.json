@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\views\\chatwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\views\\chatwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\viewsmodels\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\viewsmodels\\chatviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\service\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\service\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\viewsmodels\\hotelviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\viewsmodels\\hotelviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\views\\chatwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\views\\chatwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\service\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\helpers\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\helpers\\converters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\viewsmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\viewsmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\viewsmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\viewsmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\service\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\service\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\service\\jsondataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\service\\jsondataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\service\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\service\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\models\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\models\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\models\\roommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\models\\roommodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_16\\petrov_tema_16\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53E221C-A0FD-440C-9B06-8702C5479BF8}|Petrov_Tema_16\\Petrov_Tema_16.csproj|solutionrelative:petrov_tema_16\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\ViewsModels\\ChatViewModel.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\ViewsModels\\ChatViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\ViewsModels\\ChatViewModel.cs",
+              "RelativeToolTip": "Petrov_Tema_16\\ViewsModels\\ChatViewModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:53:42.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Views\\ChatWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\Views\\ChatWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Views\\ChatWindow.xaml.cs",
+              "RelativeToolTip": "Petrov_Tema_16\\Views\\ChatWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:48:57.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "Petrov_Tema_16\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T07:46:51.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\App.xaml",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\App.xaml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\App.xaml",
+              "RelativeToolTip": "Petrov_Tema_16\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T07:55:02.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Service\\ChatService.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\Service\\ChatService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Service\\ChatService.cs",
+              "RelativeToolTip": "Petrov_Tema_16\\Service\\ChatService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:52:31.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Views\\ChatWindow.xaml",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\Views\\ChatWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Views\\ChatWindow.xaml",
+              "RelativeToolTip": "Petrov_Tema_16\\Views\\ChatWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T07:48:42.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HotelViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\ViewsModels\\HotelViewModel.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\ViewsModels\\HotelViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\ViewsModels\\HotelViewModel.cs",
+              "RelativeToolTip": "Petrov_Tema_16\\ViewsModels\\HotelViewModel.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAswNwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:53:50.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Service\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\Service\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Service\\NotificationService.cs",
+              "RelativeToolTip": "Petrov_Tema_16\\Service\\NotificationService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:52:49.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\App.xaml.cs",
+              "RelativeToolTip": "Petrov_Tema_16\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:54:22.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Petrov_Tema_16\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-08T07:35:41.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Petrov_Tema_16\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:50:49.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\ViewsModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\ViewsModels\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\ViewsModels\\RelayCommand.cs",
+              "RelativeToolTip": "Petrov_Tema_16\\ViewsModels\\RelayCommand.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T19:25:43.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Converters.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Helpers\\Converters.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\Helpers\\Converters.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Helpers\\Converters.cs",
+              "RelativeToolTip": "Petrov_Tema_16\\Helpers\\Converters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:55:11.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "Petrov_Tema_16\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:47:06.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\ViewsModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\ViewsModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\ViewsModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Petrov_Tema_16\\ViewsModels\\LoginViewModel.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:54:08.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Service\\BookingService.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\Service\\BookingService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Service\\BookingService.cs",
+              "RelativeToolTip": "Petrov_Tema_16\\Service\\BookingService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:52:17.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Service\\AuthService.cs",
+              "RelativeToolTip": "Petrov_Tema_16\\Service\\AuthService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:51:36.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JsonDataService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Service\\JsonDataService.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\Service\\JsonDataService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Service\\JsonDataService.cs",
+              "RelativeToolTip": "Petrov_Tema_16\\Service\\JsonDataService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:52:42.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IDataService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Service\\IDataService.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\Service\\IDataService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Service\\IDataService.cs",
+              "RelativeToolTip": "Petrov_Tema_16\\Service\\IDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:52:36.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Models\\UserModel.cs",
+              "RelativeToolTip": "Petrov_Tema_16\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:52:01.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookingModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Models\\BookingModel.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\Models\\BookingModel.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Models\\BookingModel.cs",
+              "RelativeToolTip": "Petrov_Tema_16\\Models\\BookingModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:51:49.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RoomModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Models\\RoomModel.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\Models\\RoomModel.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\Models\\RoomModel.cs",
+              "RelativeToolTip": "Petrov_Tema_16\\Models\\RoomModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:51:55.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_16\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_16\\Petrov_Tema_16\\AssemblyInfo.cs",
+              "RelativeToolTip": "Petrov_Tema_16\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:54:57.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
