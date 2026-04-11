@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_18\\petrov_tema_18\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|solutionrelative:petrov_tema_18\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_18\\petrov_tema_18\\helpers\\asyncrelaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|solutionrelative:petrov_tema_18\\helpers\\asyncrelaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_18\\petrov_tema_18\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|solutionrelative:petrov_tema_18\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_18\\petrov_tema_18\\services\\datastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|solutionrelative:petrov_tema_18\\services\\datastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_18\\petrov_tema_18\\converters\\statuscolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|solutionrelative:petrov_tema_18\\converters\\statuscolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_18\\petrov_tema_18\\converters\\bookingstatusconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|solutionrelative:petrov_tema_18\\converters\\bookingstatusconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_18\\petrov_tema_18\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|solutionrelative:petrov_tema_18\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_18\\petrov_tema_18\\repositories\\bookingrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|solutionrelative:petrov_tema_18\\repositories\\bookingrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_18\\petrov_tema_18\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|solutionrelative:petrov_tema_18\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_18\\petrov_tema_18\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|solutionrelative:petrov_tema_18\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_18\\petrov_tema_18\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|solutionrelative:petrov_tema_18\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_18\\petrov_tema_18\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|solutionrelative:petrov_tema_18\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_18\\petrov_tema_18\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD675DF2-49E4-4059-ACC8-51FA15CBC307}|Petrov_Tema_18\\Petrov_Tema_18.csproj|solutionrelative:petrov_tema_18\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataStorage.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\Services\\DataStorage.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_18\\Services\\DataStorage.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\Services\\DataStorage.cs",
+              "RelativeToolTip": "Petrov_Tema_18\\Services\\DataStorage.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T19:22:24.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatusColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\Converters\\StatusColorConverter.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_18\\Converters\\StatusColorConverter.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\Converters\\StatusColorConverter.cs",
+              "RelativeToolTip": "Petrov_Tema_18\\Converters\\StatusColorConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T19:22:16.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingStatusConverter.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\Converters\\BookingStatusConverter.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_18\\Converters\\BookingStatusConverter.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\Converters\\BookingStatusConverter.cs",
+              "RelativeToolTip": "Petrov_Tema_18\\Converters\\BookingStatusConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T19:22:15.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_18\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Petrov_Tema_18\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T19:22:05.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_18\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "Petrov_Tema_18\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T19:22:03.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsyncRelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\Helpers\\AsyncRelayCommand.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_18\\Helpers\\AsyncRelayCommand.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\Helpers\\AsyncRelayCommand.cs",
+              "RelativeToolTip": "Petrov_Tema_18\\Helpers\\AsyncRelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T19:21:27.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_18\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\Models\\Room.cs",
+              "RelativeToolTip": "Petrov_Tema_18\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T19:21:24.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_18\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\Models\\Booking.cs",
+              "RelativeToolTip": "Petrov_Tema_18\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T19:21:22.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_18\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "Petrov_Tema_18\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAswI8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T19:16:40.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_18\\Repositories\\RoomRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "Petrov_Tema_18\\Repositories\\RoomRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T19:16:31.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingRepository .cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\Repositories\\BookingRepository .cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_18\\Repositories\\BookingRepository .cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\Repositories\\BookingRepository .cs",
+              "RelativeToolTip": "Petrov_Tema_18\\Repositories\\BookingRepository .cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T19:16:22.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Petrov_Tema_18\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\MainWindow.xaml",
+              "RelativeToolTip": "Petrov_Tema_18\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-11T19:13:45.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_18\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_18\\Petrov_Tema_18\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Petrov_Tema_18\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T19:13:43.38Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

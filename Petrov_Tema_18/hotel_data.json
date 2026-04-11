@@ -1,0 +1,47 @@
+{
+  "Rooms": [
+    {
+      "Id": 1,
+      "RoomNumber": "101",
+      "Type": "Стандарт",
+      "Price": 80.0,
+      "IsBooked": true
+    },
+    {
+      "Id": 2,
+      "RoomNumber": "102",
+      "Type": "Стандарт",
+      "Price": 80.0,
+      "IsBooked": false
+    },
+    {
+      "Id": 3,
+      "RoomNumber": "103",
+      "Type": "Улучшенный",
+      "Price": 120.0,
+      "IsBooked": false
+    },
+    {
+      "Id": 4,
+      "RoomNumber": "104",
+      "Type": "Люкс",
+      "Price": 180.0,
+      "IsBooked": false
+    },
+    {
+      "Id": 5,
+      "RoomNumber": "105",
+      "Type": "Стандарт",
+      "Price": 80.0,
+      "IsBooked": true
+    },
+    {
+      "Id": 6,
+      "RoomNumber": "106",
+      "Type": "Улучшенный",
+      "Price": 120.0,
+      "IsBooked": false
+    }
+  ],
+  "Bookings": []
+}

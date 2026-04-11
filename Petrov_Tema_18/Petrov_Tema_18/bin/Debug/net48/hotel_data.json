@@ -1,0 +1,93 @@
+{
+  "Rooms": [
+    {
+      "Id": 1,
+      "RoomNumber": "101",
+      "Type": "Стандарт",
+      "Price": 80.0,
+      "IsBooked": true
+    },
+    {
+      "Id": 2,
+      "RoomNumber": "102",
+      "Type": "Стандарт",
+      "Price": 80.0,
+      "IsBooked": true
+    },
+    {
+      "Id": 3,
+      "RoomNumber": "103",
+      "Type": "Улучшенный",
+      "Price": 120.0,
+      "IsBooked": true
+    },
+    {
+      "Id": 4,
+      "RoomNumber": "104",
+      "Type": "Люкс",
+      "Price": 180.0,
+      "IsBooked": true
+    },
+    {
+      "Id": 5,
+      "RoomNumber": "105",
+      "Type": "Стандарт",
+      "Price": 80.0,
+      "IsBooked": true
+    },
+    {
+      "Id": 6,
+      "RoomNumber": "106",
+      "Type": "Улучшенный",
+      "Price": 120.0,
+      "IsBooked": false
+    }
+  ],
+  "Bookings": [
+    {
+      "Id": 1,
+      "RoomId": 2,
+      "CustomerName": "Егор",
+      "CheckInDate": "2026-04-11T00:00:00+03:00",
+      "CheckOutDate": "2026-04-17T00:00:00",
+      "IsActive": true,
+      "Room": {
+        "Id": 2,
+        "RoomNumber": "102",
+        "Type": "Стандарт",
+        "Price": 80.0,
+        "IsBooked": true
+      }
+    },
+    {
+      "Id": 2,
+      "RoomId": 3,
+      "CustomerName": "Ромчик",
+      "CheckInDate": "2026-05-20T00:00:00",
+      "CheckOutDate": "2026-06-01T00:00:00",
+      "IsActive": true,
+      "Room": {
+        "Id": 3,
+        "RoomNumber": "103",
+        "Type": "Улучшенный",
+        "Price": 120.0,
+        "IsBooked": true
+      }
+    },
+    {
+      "Id": 3,
+      "RoomId": 4,
+      "CustomerName": "Мирик",
+      "CheckInDate": "2026-04-12T00:00:00",
+      "CheckOutDate": "2026-09-01T00:00:00",
+      "IsActive": true,
+      "Room": {
+        "Id": 4,
+        "RoomNumber": "104",
+        "Type": "Люкс",
+        "Price": 180.0,
+        "IsBooked": false
+      }
+    }
+  ]
+}

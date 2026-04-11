@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\Petrov_Tema_18\Petrov_Tema_18\obj\Debug\net8.0-windows\Petrov_Tema_18.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Petrov_Tema_18\Petrov_Tema_18\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\admin\source\repos\Petrov_Tema_18\Petrov_Tema_18\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\admin\source\repos\Petrov_Tema_18\Petrov_Tema_18\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\source\repos\Petrov_Tema_18\Petrov_Tema_18\obj\Debug\net8.0-windows\Petrov_Tema_18_MarkupCompile.cache
+C:\Users\admin\source\repos\Petrov_Tema_18\Petrov_Tema_18\obj\Debug\net8.0-windows\Petrov_Tema_18_MarkupCompile.lref
