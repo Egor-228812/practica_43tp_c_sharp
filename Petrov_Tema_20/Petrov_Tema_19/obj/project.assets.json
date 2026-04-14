@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Petrov_Tema_19.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_20\\Petrov_Tema_19\\Petrov_Tema_19.csproj",
       "projectName": "Petrov_Tema_19",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Petrov_Tema_19.csproj",
+      "projectPath": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_20\\Petrov_Tema_19\\Petrov_Tema_19.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\obj\\",
+      "outputPath": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_20\\Petrov_Tema_19\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

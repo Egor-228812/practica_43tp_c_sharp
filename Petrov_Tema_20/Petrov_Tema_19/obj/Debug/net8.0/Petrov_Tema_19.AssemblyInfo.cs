@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Petrov_Tema_19")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d7cc5a20142440945ff101058be80b6d81148eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Petrov_Tema_19")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Petrov_Tema_19")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
