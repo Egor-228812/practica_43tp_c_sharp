@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Petrov_Tema_19.Models.Contact>
+
+@{
+    ViewData["Title"] = "Телефонный справочник";
+}
+
+<h1>Телефонный справочник</h1>
+
+<form asp-action="Search" method="get" class="form-inline mb-3">
+    <input type="text" name="name" placeholder="Введите имя..." class="form-control mr-2" />
+    <button type="submit" class="btn btn-primary">Найти</button>
+    <a asp-action="Index" class="btn btn-secondary ml-2">Сбросить</a>
+</form>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Имя</th>
+            <th>Телефон</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var contact in Model)
+        {
+            <tr>
+                <td>@contact.Name</td>
+                <td>@contact.PhoneNumber</td>
+                <td>@contact.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Добавить контакт</a>
+</p>

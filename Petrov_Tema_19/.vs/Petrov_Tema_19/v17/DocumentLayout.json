@@ -1,54 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_19\\petrov_tema_19\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_19\\petrov_tema_19\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_19\\petrov_tema_19\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\onedrive\\desktop\\practica_c\\practica_43tp_c_sharp\\petrov_tema_19\\petrov_tema_19\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_19\\petrov_tema_19\\views\\contacts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\views\\contacts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_19\\petrov_tema_19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_19\\petrov_tema_19\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_19\\petrov_tema_19\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\onedrive\\desktop\\practica_c\\practica_43tp_c_sharp\\petrov_tema_19\\petrov_tema_19\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_19\\petrov_tema_19\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\onedrive\\desktop\\practica_c\\practica_43tp_c_sharp\\petrov_tema_19\\petrov_tema_19\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_19\\petrov_tema_19\\services\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\services\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\onedrive\\desktop\\practica_c\\practica_43tp_c_sharp\\petrov_tema_19\\petrov_tema_19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_19\\petrov_tema_19\\petrov_tema_19.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\petrov_tema_19.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\onedrive\\desktop\\practica_c\\practica_43tp_c_sharp\\petrov_tema_19\\petrov_tema_19\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_19\\petrov_tema_19\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\onedrive\\desktop\\practica_c\\practica_43tp_c_sharp\\petrov_tema_19\\petrov_tema_19\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\onedrive\\desktop\\practica_c\\practica_43tp_c_sharp\\petrov_tema_19\\petrov_tema_19\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\onedrive\\desktop\\practica_c\\practica_43tp_c_sharp\\petrov_tema_19\\petrov_tema_19\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\source\\repos\\petrov_tema_19\\petrov_tema_19\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\onedrive\\desktop\\practica_c\\practica_43tp_c_sharp\\petrov_tema_19\\petrov_tema_19\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\onedrive\\desktop\\practica_c\\practica_43tp_c_sharp\\petrov_tema_19\\petrov_tema_19\\services\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\services\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\onedrive\\desktop\\practica_c\\practica_43tp_c_sharp\\petrov_tema_19\\petrov_tema_19\\viewmodels\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\viewmodels\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\onedrive\\desktop\\practica_c\\practica_43tp_c_sharp\\petrov_tema_19\\petrov_tema_19\\views\\contacts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\views\\contacts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\onedrive\\desktop\\practica_c\\practica_43tp_c_sharp\\petrov_tema_19\\petrov_tema_19\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|c:\\users\\admin\\onedrive\\desktop\\practica_c\\practica_43tp_c_sharp\\petrov_tema_19\\petrov_tema_19\\petrov_tema_19.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62DF5599-89FD-48B9-9225-7EE38D37EFC8}|Petrov_Tema_19\\Petrov_Tema_19.csproj|solutionrelative:petrov_tema_19\\petrov_tema_19.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,67 +66,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\Contacts\\Create.cshtml",
-              "RelativeDocumentMoniker": "Petrov_Tema_19\\Views\\Contacts\\Create.cshtml",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\Contacts\\Create.cshtml",
-              "RelativeToolTip": "Petrov_Tema_19\\Views\\Contacts\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwCAAAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Petrov_Tema_19\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Petrov_Tema_19\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-13T06:29:26.383Z",
+              "WhenOpened": "2026-04-14T05:42:05.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\Contacts\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Petrov_Tema_19\\Views\\Contacts\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\Contacts\\Index.cshtml.cs",
-              "RelativeToolTip": "Petrov_Tema_19\\Views\\Contacts\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Services\\IContactService.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_19\\Services\\IContactService.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Services\\IContactService.cs",
+              "RelativeToolTip": "Petrov_Tema_19\\Services\\IContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T06:28:47.242Z",
+              "WhenOpened": "2026-04-14T05:36:52.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
+              "Title": "ContactViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\ViewModels\\ContactViewModel.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_19\\ViewModels\\ContactViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\ViewModels\\ContactViewModel.cs",
+              "RelativeToolTip": "Petrov_Tema_19\\ViewModels\\ContactViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T05:36:34.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\Contacts\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\Contacts\\Index.cshtml",
               "RelativeDocumentMoniker": "Petrov_Tema_19\\Views\\Contacts\\Index.cshtml",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\Contacts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\Contacts\\Index.cshtml",
               "RelativeToolTip": "Petrov_Tema_19\\Views\\Contacts\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-13T06:28:43.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Petrov_Tema_19\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Petrov_Tema_19\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-13T06:25:20.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Petrov_Tema_19\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Petrov_Tema_19\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -127,76 +135,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "ContactsController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Controllers\\ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Controllers\\ContactsController.cs",
               "RelativeDocumentMoniker": "Petrov_Tema_19\\Controllers\\ContactsController.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Controllers\\ContactsController.cs",
               "RelativeToolTip": "Petrov_Tema_19\\Controllers\\ContactsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T06:24:08.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Program.cs",
               "RelativeDocumentMoniker": "Petrov_Tema_19\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Program.cs",
               "RelativeToolTip": "Petrov_Tema_19\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T06:23:11.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\Contacts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Petrov_Tema_19\\Views\\Contacts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\Contacts\\Create.cshtml",
+              "RelativeToolTip": "Petrov_Tema_19\\Views\\Contacts\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-13T06:29:26.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_19\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Petrov_Tema_19\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T05:41:39.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ContactService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Services\\ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Services\\ContactService.cs",
               "RelativeDocumentMoniker": "Petrov_Tema_19\\Services\\ContactService.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Services\\ContactService.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Services\\ContactService.cs",
               "RelativeToolTip": "Petrov_Tema_19\\Services\\ContactService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBAAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T06:22:49.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PhoneBook.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Services\\PhoneBook.cs",
-              "RelativeDocumentMoniker": "Petrov_Tema_19\\Services\\PhoneBook.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Services\\PhoneBook.cs",
-              "RelativeToolTip": "Petrov_Tema_19\\Services\\PhoneBook.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T06:22:21.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Petrov_Tema_19",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Petrov_Tema_19.csproj",
-              "RelativeDocumentMoniker": "Petrov_Tema_19\\Petrov_Tema_19.csproj",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Petrov_Tema_19.csproj",
-              "RelativeToolTip": "Petrov_Tema_19\\Petrov_Tema_19.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-13T06:22:00.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Models\\Contact.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "Petrov_Tema_19\\Models\\Contact.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Models\\Contact.cs",
               "RelativeToolTip": "Petrov_Tema_19\\Models\\Contact.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -205,16 +213,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Petrov_Tema_19\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Petrov_Tema_19\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-13T06:25:20.979Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Petrov_Tema_19\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Petrov_Tema_19\\Petrov_Tema_19\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Petrov_Tema_19\\Models\\ErrorViewModel.cs",
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\Contacts\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Petrov_Tema_19\\Views\\Contacts\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Views\\Contacts\\Index.cshtml.cs",
+              "RelativeToolTip": "Petrov_Tema_19\\Views\\Contacts\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T06:20:19.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T06:28:47.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Petrov_Tema_19.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Petrov_Tema_19.csproj",
+              "RelativeDocumentMoniker": "Petrov_Tema_19\\Petrov_Tema_19.csproj",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Desktop\\Practica_C\\practica_43tp_c_sharp\\Petrov_Tema_19\\Petrov_Tema_19\\Petrov_Tema_19.csproj",
+              "RelativeToolTip": "Petrov_Tema_19\\Petrov_Tema_19.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T06:22:00.099Z"
             }
           ]
         }

@@ -1,9 +1,6 @@
 ﻿using Petrov_Tema_19.Models;
-using Petrov_Tema_19.Services;
-using System.Collections.Generic;
-using System.Linq;
 
-namespace PhoneBook.Services
+namespace Petrov_Tema_19.Services
 {
     public class ContactService : IContactService
     {
@@ -14,7 +11,7 @@ namespace PhoneBook.Services
             new Contact { Id = 3, Name = "Швед Руслан", PhoneNumber = "+375293477789", Email = "rusia@example.com" },
             new Contact { Id = 4, Name = "Мосевич Артур", PhoneNumber = "+375299525789", Email = "artue@example.com" },
             new Contact { Id = 5, Name = "Макарчук Богдан", PhoneNumber = "+375293456159", Email = "bogdan@example.com" }
-        };
+       };
         private static int _nextId = 4;
 
         public List<Contact> GetAll() => _contacts;
